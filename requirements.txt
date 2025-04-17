@@ -1,0 +1,4 @@
+requests
+asciichartpy
+pytest
+text2art
